@@ -3,8 +3,6 @@ Title: <DATASCI 223 exercise 2>
 Short description: <This script will answer exercise 2>
 Author: <Anna-Sophie Thein>
 Created: <January 26, 2024>
-Input:
-Output:
 
 Other requirements:
 In terminal: python3 -m pip install pandas numpy matplotlib emnist seaborn jupyter
