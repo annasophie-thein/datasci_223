@@ -131,7 +131,7 @@ work_df = work_df.drop_duplicates(subset='image_hash', keep='first') # Drop dupl
 work_df[work_df['image'].apply(lambda x: (np.array(x) == 0).all())] # see if any images are all zeros
 work_df = work_df[~work_df['image'].apply(lambda x: (np.array(x) == 0).all())] # drop if any images are all zeros
 
-### Problem 5: out of bounds values for 'predict'
+### Problem 5: Out of bounds values for 'predict'
 work_df['predict'].describe()
 dirty_merged['predict'].describe()
 # out of bounds values are chosen based on min and max of 'predict' before messing with the dataset
