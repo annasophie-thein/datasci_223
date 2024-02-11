@@ -12,3 +12,5 @@ My solutions to exercise 2 (Dirty Emnist) can be found here: https://github.com/
 ## Instruction for exercise 3
 My solutions to exercise 3 (Analyzing Chinook Database) can be found here: https://github.com/annasophie-thein/datasci_223/blob/main/exercises/3-sql-queries/exercise3.ipynb). The file is named "exercise3.py". 
 
+## Instruction for exercise 4
+I did not manage to complete the assignment so this is as far as I got. I generally had trouble running the code in order to trouble shoot as Google Collab crashed continually. My solutions to exercise 4 (Classification on emnist) can be found here: https://github.com/annasophie-thein/datasci_223/blob/main/exercises/4-classification/exercise4.ipynb. 
